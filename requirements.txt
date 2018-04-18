@@ -1,0 +1,7 @@
+ipython
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+notebook
+numpy
