@@ -6,5 +6,5 @@ Docker for machine learning projects
 
 ```
 docker build -t ml-docker .
-docker run -d -p 8888:8888 --name ml-docker ml-docker
+docker run -d -p 8888:8888 -p 6006:6006 --name ml-docker ml-docker
 ```

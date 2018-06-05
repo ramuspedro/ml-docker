@@ -5,4 +5,5 @@ jupyter-console
 jupyter-core
 notebook
 numpy
-jupyterlab
+pandas
+tensorflow
